@@ -1,0 +1,33 @@
+h3 {
+    color: red;
+}
+
+#lens {
+    height: 200px;
+}
+
+.copy_right_footer {
+    text-align: center;
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    background: brown;
+}
+
+.common {
+    background-color: grey;
+    width: 1450px;
+    border-radius: 9px;
+    color: white;
+    margin-top: 20px;
+}
+
+.img-responsive {
+    width: 500px;
+    border-radius: 9px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
